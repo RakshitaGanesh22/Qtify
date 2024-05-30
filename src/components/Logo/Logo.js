@@ -4,8 +4,6 @@ import untitled from './untitled.png';
 
 export default function Logo() {
     return (
-        <div className={Styles.Logo}>
-            <img src={untitled} alt="Logo" />
-        </div>
+            <img src={untitled} alt="Logo" className={Styles.Logo}/>
     );
 }
