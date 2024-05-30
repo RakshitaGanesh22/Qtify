@@ -1,11 +1,12 @@
 .Logo{
     /* height: 100%;*/
+    
     display: flex;
-    justify-content: center;
-    align-items: center;
+  align-items: center;
+  justify-content: center;
     position: relative; 
-    left:67px;
+    Left:32px;
     width:67px;
     height:34px;
-    Left:32px;
+    
 }
