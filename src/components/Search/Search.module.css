@@ -1,0 +1,21 @@
+.searchBox{
+    display: flex;
+    margin: 0;
+    width:568px;
+    height:48px;
+    position: relative;
+}
+.inputS{
+    width: 502px;
+    border: 1px solid black;
+    border-radius: 8px 0 0 8px;
+    padding: 20px;
+}
+.seab{
+    width:66px;
+    height:48px;
+    position: relative;
+    border-radius: 0px 8px 8px 0px;
+    border:1px solid black;
+
+}

@@ -1,0 +1,33 @@
+.button1{
+    width:170px;
+    height: 47px;
+    gap: 10px;
+    border-radius: 12px;
+    background-color:  #121212;
+    border: 1px solid #34C94B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 32px;
+
+}
+.button2{
+    text-decoration: none;
+    Width:138px;
+    height:27px;
+    z-index: 1;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 18px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 27px;
+    letter-spacing: 0.25px;
+    color: #34C94B;
+    background-color:  #121212;
+    margin:0px;
+    padding: 0px;
+    
+}
