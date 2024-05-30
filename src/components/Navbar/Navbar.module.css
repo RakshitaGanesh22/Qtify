@@ -1,8 +1,10 @@
 .Navbar{
     background-color: #34C94B;
-    height: 4.625rem;
-    position:relative;
+    width: 100%;
+    height: 74px;
     display: flex;
-    justify-content:space-between;
     align-items: center;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
