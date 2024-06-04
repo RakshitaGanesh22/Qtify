@@ -1,6 +1,6 @@
-import SearchButton from "../Button/Button.js";
-import Logo from "../Logo/Logo.js";
-import Search from "../Search/Search.js";
+import SearchButton from "../Button/Button.jsx";
+import Logo from "../Logo/Logo.jsx";
+import Search from "../Search/Search.jsx";
 import Styles from "./Navbar.module.css";
 export default function Navbar1() {
     return (

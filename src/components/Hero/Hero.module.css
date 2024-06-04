@@ -1,0 +1,64 @@
+.HeroMain{
+    height: 270px;
+    position: absolute;
+    margin: 0px;
+    top: 74px;
+    background-color: #121212;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.subMain{
+    width: 799px;
+    height: 212px;
+    position: absolute;
+    top: 29px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.subMainn{
+    width:556px;
+    height:100px;
+    position: absolute;
+    top: 68px;
+}
+.fText{
+    /* position: relative;
+    top:149px;
+    left:327px; */
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    display: flex;
+    justify-content: center;
+    color: 
+    #FFFFFF;
+    margin: 0px;
+    padding: 0px;
+}
+.sText{
+    /* position: relative;
+    top:149px;
+    left:327px; */
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    color: 
+    #FFFFFF;
+    margin: 0px;
+    padding: 0px;
+}
+
+.imgSection{
+    width: 212px;
+    height: 212px;
+    opacity: 1;
+    position: absolute;
+    left: 556px;
+}
